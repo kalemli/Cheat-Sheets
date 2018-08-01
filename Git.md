@@ -7,3 +7,9 @@ git reset --soft HEAD~4
 git commit
 git push origin +my_branch
 ```
+**OR**
+
+```shell
+git rebase -i origin/master~5 master
+git push origin +master
+```

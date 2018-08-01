@@ -1,6 +1,11 @@
 # Git commands and configurations
 
-**1. Combine multiple commits in single commit after push**
+**1. Change commit author**
+```shell
+git commit --amend --author="Name <name@domain.tld>"
+```
+
+**2. Combine multiple commits in single commit after push**
 ```shell
 git checkout my_branch
 git reset --soft HEAD~4

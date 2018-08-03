@@ -8,6 +8,10 @@
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+- [ ] Task 1
+  - [x] Task 1.1
+  - [x] Task 1.2
+  - [ ] Task 1.3
 
 ### Quoting text
 > Pardon my French
